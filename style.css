@@ -1,0 +1,17 @@
+/*declarando variables en css*/
+:root {
+    --color: darkmagenta;
+}
+
+
+
+
+body{
+    background-color: var(--color);
+    color: yellow;
+
+}
+h1{
+    background-color: black;
+    color: aqua;
+}
